@@ -17,3 +17,7 @@ Participants typically form groups of about 2-5 individuals, take out their lapt
 
 
 ## Project Submission Template
+
+## Resource
+- [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html)
+- [PHALA Phat Contract](https://phala.network/phat-contract)
