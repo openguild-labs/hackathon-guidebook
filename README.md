@@ -15,9 +15,6 @@ There are two types of hackathon format you need to clarify before joining:
 
 Participants typically form groups of about 2-5 individuals, take out their laptops (if the event is technology themed), and dive into problems. Training workshops are a great parallel track especially for newcomers but also for all participants.
 
-
-## Project Submission Template
-
 ## Resource
 - [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html)
 - [PHALA Phat Contract](https://phala.network/phat-contract)
